@@ -1,0 +1,13 @@
+{
+  "placeholders": {
+    "email": "Email",
+    "password": "Password"
+  },
+  "forgot": "We'll never share your email with anyone else.",
+  "checkbox": "Check me out",
+  "buttons": {
+    "login": "Login",
+    "register": "Sign up"
+  },
+  "switch_lang": "Switch Language"
+}
